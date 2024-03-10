@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Voice of Vape</title>
+    <link>https://www.voiceofvape.com/</link>
+    <description>Recent content on The Voice of Vape</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.voiceofvape.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.voiceofvape.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.voiceofvape.com/about/</guid>
+      <description>I am an insider. That&amp;rsquo;s right, I work for the deep vape. I won&amp;rsquo;t say exactly what I do but I have personal knowledge of the inner workings.</description>
+    </item>
+    <item>
+      <title>Disposables Are Evil</title>
+      <link>https://www.voiceofvape.com/post/disposables-are-evil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.voiceofvape.com/post/disposables-are-evil/</guid>
+      <description>Disposables are evil for the vaping community and make us all sad&#xA;Today vape is a gas station add on, a quick hit before walking into the office or some trendy but invisible way of saying &amp;ldquo;I&amp;rsquo;m a fucking dick.</description>
+    </item>
+  </channel>
+</rss>
